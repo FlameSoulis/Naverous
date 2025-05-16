@@ -1,2 +1,2 @@
 # Naverous
-The previous vendor system I wrote for Second Life nearly 15 years ago, now open source so you can see the inner workings (and how not to make a vendor system).
+The previous vendor system I wrote for Second Life in 2008, now open source so you can see the inner workings to learn from the successes and short comings of the system.

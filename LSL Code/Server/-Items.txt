@@ -1,0 +1,7 @@
+//PriamaryCategory--SecondaryCategory--ItemName--Price--ObjectName--PrimaryPicture--Previewicture
+Primary1--Secondary1--Item1--700--Object1--8521e929-2d06-7f47-949e-0bc8d38853fe--1b6ca99a-a5de-4d1d-71ba-b374750618d5
+Primary1--Secondary1--Item2--800--Object2--8521e929-2d06-7f47-949e-0bc8d38853fe--69d4f294-8d51-7e0f-a491-fb683313a0cc
+Primary2--Secondary2--Item3--800--Object3--3fc96fe1-a205-50f7-3ac2-9da1af23feea--62ba526b-cea7-56f6-6e79-4a59795e9a45
+Primary2--Secondary2--Item4--800--Object4--1159b76b-5f06-2198-eef2-48effcfddd85--fadf9718-0f40-cb21-e462-04d37b5dd5d8
+Primary2--Secondary3--Item5--1337--Oh Boy--84db9fd3-5f0b-177a-edda-aa868b7e9a93--beadbb46-7809-5c5c-e39c-af6c5a81de3c
+Primary2--Secondary3--YetAnotherItem--420--Tired--70f49717-03ab-89d3-ec5d-842024fe3963--fee96030-a012-fa5b-d404-eb6758d53916
